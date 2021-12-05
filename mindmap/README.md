@@ -1,0 +1,2 @@
+## Description
+Mindmap is created by the alpha version of Yandex.Routes application. User interface consisted of input fields for departure time and date, point address «From», point address «To», types of transport and travel mode. According to the logic of the application, the user can choose any of the three modes: personal, quick or optimal. Depending on which of the modes is selected, the duration and cost of the trip are displayed.
